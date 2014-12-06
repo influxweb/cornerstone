@@ -1,4 +1,3 @@
-cornerstone
-===========
-
-Cornerstone is a device agnostic website development framework.
+cornerstoneUX
+-------------
+Cornerstone is a device agnostic website development architecture.
